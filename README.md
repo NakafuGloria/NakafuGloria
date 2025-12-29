@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @NakafuGloria
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on projects, jobs and knowlegde exchange
-- 📫 How to reach me ...nakafugloria@gmail.com
+ Skills & Tools
+- **Data Analysis:** SQL, Excel
+- **Business Intelligence:** Power BI, Tableau
+- **Programming:** Python (Pandas, NumPy, Matplotlib)
+- **Databases:** MySQL, PostgreSQL
+- **Other:** Data Cleaning, Data Visualization, Reporting
+
 
 <!---
 NakafuGloria/NakafuGloria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
