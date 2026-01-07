@@ -8,7 +8,7 @@ I transform raw data into meaningful insights through analysis, dashboards, and 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&color=%230077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-nakafu-bb1a94158)
 [![Resume](https://img.shields.io/badge/Resume-white?style=flat-square&color=%23D44638&logo=adobeacrobat&logoColor=white)](https://drive.google.com/drive/folders/1wl2QoidFMI-k8ie327yScvhhMR7rSddD)
-[![Case studies (https://img.shields.io/badge/Portfolio-white?style=flat-square&color=%2304B431&logo=googlechrome&logoColor=white)](https://sites.google.com/view/glorianakafu/home-page
+[![Case studies](https://img.shields.io/badge/Portfolio-white?style=flat-square&color=%2304B431&logo=googlechrome&logoColor=white)](https://sites.google.com/view/glorianakafu/home-page)
 
 ---
 
