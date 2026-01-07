@@ -5,8 +5,12 @@ Data Science Enthusiast
 
 I transform raw data into meaningful insights through analysis, dashboards, and storytelling. I am particularly interested in using data to drive business efficiency and informed decision-making.
 
-### Connect with me
+### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-nakafu-bb1a94158)
+[![Resume](https://img.shields.io/badge/Resume-555?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/drive/folders/1wl2QoidFMI-k8ie327yScvhhMR7rSddD)
+
+---
+
 
 
 ### Most used languages across my projects
