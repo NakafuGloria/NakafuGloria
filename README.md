@@ -1,13 +1,15 @@
 # 👋 Hi there! I’m Gloria Nakafu
 
-### 📊 Data Analyst | Business Intelligence | Data Visualization  
+### Data Analyst | Business Intelligence | Data Visualization  
 Data Science Enthusiast
 
 I transform raw data into meaningful insights through analysis, dashboards, and storytelling. I am particularly interested in using data to drive business efficiency and informed decision-making.
 
----
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-nakafu-bb1a94158)
 
-### 🛠️ Most used languages across my projects
+
+### Most used languages across my projects
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&color=555&labelColor=%23a270ba&message=20.00)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=SQL&color=555&labelColor=%234169e1&message=20.00)
